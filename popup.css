@@ -1,0 +1,29 @@
+* {
+    font-family: 'Times New Roman';
+    text-align: center;
+}
+
+body {
+    height: 50rem;
+    width: 50rem;
+    padding: 1rem;
+}
+
+.button-box {
+    height: auto;
+    width: auto;
+}
+
+button {
+    border: none;
+    height: auto;
+    width: auto;
+    padding: 1rem;
+    background-color: rgb(50, 150, 50);
+    color: white;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: green;
+}
